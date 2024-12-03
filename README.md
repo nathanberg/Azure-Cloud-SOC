@@ -1,3 +1,6 @@
+
+[Untitled.pptx](https://github.com/user-attachments/files/17985349/Untitled.pptx)
+
 # Building a SOC + Honeynet in Azure (Live Traffic)
 ![Project drawio](https://github.com/user-attachments/assets/0840ca33-8dce-47b5-90bf-77cbf4712748)
 
